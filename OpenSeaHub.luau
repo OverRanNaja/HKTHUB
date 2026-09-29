@@ -2225,7 +2225,7 @@ pcall(function()
 end)
 if not Fluent then
     local urls = {
-        "https://raw.githubusercontent.com/hxrendontcry/2kscripts/main/fluent.lua",
+        "https://raw.githubusercontent.com/OverRanNaja/HKTHUB/main/fluent.lua",
         "https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"
     }
     for _, u in ipairs(urls) do
