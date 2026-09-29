@@ -1293,7 +1293,7 @@ end
 -- 2. Fast Standalone Bundle (Pre-patched icons, ZERO extra GitHub HTTP requests)
 if not WindUI then
     local WindUILoadUrls = {
-        "https://raw.githubusercontent.com/hxrendontcry/2kscripts/main/windui.lua",
+        "https://raw.githubusercontent.com/OverRanNaja/HKTHUB/main/windui.lua",
         "https://cdn.jsdelivr.net/gh/hxrendontcry/2kscripts@main/windui.lua",
         "https://cdn.jsdelivr.net/gh/Footagesus/WindUI@main/dist/main.lua",
         "https://fastly.jsdelivr.net/gh/Footagesus/WindUI@main/dist/main.lua"
